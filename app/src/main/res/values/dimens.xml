@@ -1,0 +1,9 @@
+<resources>
+
+
+    <dimen name="WheelItemTextSize">24sp</dimen>
+    <dimen name="WheelItemSpace">12dp</dimen>
+    <dimen name="WheelIndicatorSize">2dp</dimen>
+    <!--视频回放-->
+    <dimen name="sp_12">12sp</dimen>
+</resources>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.CB-ysx:CBRatingBar:3.0.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/3297f5dd0c9fe84510be53ee631fd2f8/transformed/jetified-CBRatingBar-3.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/3297f5dd0c9fe84510be53ee631fd2f8/transformed/jetified-CBRatingBar-3.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/3297f5dd0c9fe84510be53ee631fd2f8/transformed/jetified-CBRatingBar-3.0.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

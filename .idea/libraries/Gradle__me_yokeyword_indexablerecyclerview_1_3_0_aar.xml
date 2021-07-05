@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: me.yokeyword:indexablerecyclerview:1.3.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/f2c7cafe9a1164b0fbdaf4254bb25651/transformed/jetified-indexablerecyclerview-1.3.0/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/f2c7cafe9a1164b0fbdaf4254bb25651/transformed/jetified-indexablerecyclerview-1.3.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/f2c7cafe9a1164b0fbdaf4254bb25651/transformed/jetified-indexablerecyclerview-1.3.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/f2c7cafe9a1164b0fbdaf4254bb25651/transformed/jetified-indexablerecyclerview-1.3.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/me.yokeyword/indexablerecyclerview/1.3.0/63df366dc869a829bba0693d37595e1cea3eb2df/indexablerecyclerview-1.3.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/me.yokeyword/indexablerecyclerview/1.3.0/ee92cc4773438d664a5f39e6f78b720d4d102692/indexablerecyclerview-1.3.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,3 @@
+//include ':mupdf-lib'//include ':mupdf-lib'//include ':zxing-lib'
+include ':app'
+include ':frame'

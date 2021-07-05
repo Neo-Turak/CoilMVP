@@ -1,0 +1,110 @@
+apply plugin: 'com.android.library'
+apply plugin: 'kotlin-android'
+apply plugin: 'kotlin-kapt'
+
+android {
+    compileSdkVersion 30
+    buildToolsVersion '30.0.3'
+    useLibrary 'org.apache.http.legacy'
+
+    compileOptions {
+        targetCompatibility JavaVersion.VERSION_1_8
+        sourceCompatibility JavaVersion.VERSION_1_8
+    }
+
+    defaultConfig {
+        minSdkVersion 21
+        targetSdkVersion 28
+        compileSdkVersion 28
+        versionCode 1100
+        versionName "1.1.0"
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    //A
+    implementation 'androidx.appcompat:appcompat:1.3.0'
+    implementation 'androidx.annotation:annotation:1.2.0'
+    implementation 'androidx.recyclerview:recyclerview:1.2.0'
+    implementation 'androidx.recyclerview:recyclerview-selection:1.1.0'
+    implementation 'androidx.cardview:cardview:1.0.0'
+    implementation 'androidx.constraintlayout:constraintlayout:2.0.4'
+    /**
+     * C
+     */
+    implementation 'com.google.android.material:material:1.3.0'
+    implementation 'com.github.CymChad:BaseRecyclerViewAdapterHelper:3.0.4'
+    implementation 'com.flyco.tablayout:FlycoTabLayout_Lib:2.1.2@aar'
+    implementation 'com.jaeger.statusbarutil:library:1.5.1'
+    implementation 'com.bigkoo:ConvenientBanner:2.1.4'
+    implementation'com.gyf.immersionbar:immersionbar:3.0.0'
+    //选择器
+    implementation 'com.contrarywind:Android-PickerView:4.1.9'
+    //pdf
+    implementation 'com.haibin:calendarview:3.7.1'
+    implementation 'com.github.CB-ysx:CBRatingBar:3.0.1'
+    implementation 'com.github.qingmei2:SlideBottomLayout-Android:1.2.3'
+    implementation 'com.github.donkingliang:LabelsView:1.6.3'
+    implementation 'com.squareup.retrofit2:converter-gson:2.9.0'
+    //tab指示器
+    implementation 'com.github.hackware1993:MagicIndicator:1.7.0'
+    //XUI
+    implementation 'com.github.xuexiangjys:XUI:1.1.6'
+    //PowerMenu
+    implementation 'com.github.skydoves:powermenu:2.1.9'
+    implementation 'cn.bingoogolapple:bga-swipebacklayout:1.1.9@aar'
+    implementation 'com.github.VictorAlbertos.RxCache:runtime:1.8.3-2.x'
+    implementation 'com.github.VictorAlbertos.Jolyglot:gson:0.0.4'
+    implementation 'com.trello.rxlifecycle2:rxlifecycle:2.2.2'
+    implementation 'com.trello.rxlifecycle2:rxlifecycle-android:2.2.2'
+    implementation 'com.tbruyelle.rxpermissions2:rxpermissions:0.9.5@aar'
+    implementation 'me.jessyan:rxerrorhandler:2.1.1'
+    implementation 'com.squareup.retrofit2:retrofit:2.9.0'
+    implementation 'com.squareup.retrofit2:adapter-rxjava2:2.9.0'
+    implementation 'com.squareup.okhttp3:okhttp:5.0.0-alpha.2'
+    implementation 'com.github.bumptech.glide:glide:4.12.0'
+    implementation 'com.google.dagger:dagger:2.37'
+    implementation 'com.google.code.gson:gson:2.8.7'
+    implementation 'com.github.LuckSiege.PictureSelector:picture_library:v2.6.0'
+    implementation 'com.jakewharton.timber:timber:4.7.1'
+    implementation 'com.jakewharton:butterknife:10.2.3'
+    //可高亮的textView
+    implementation 'com.github.54LiNKeR:ColorTextView:1.1.0'
+
+    kapt 'com.google.dagger:dagger-compiler:2.37'
+
+    implementation 'org.greenrobot:greendao:3.3.0'
+
+    // 进度条显示
+    implementation 'me.jessyan:progressmanager:1.5.0'
+    //布局适配器
+    implementation 'me.jessyan:autosize:1.2.1'
+    implementation 'me.yokeyword:indexablerecyclerview:1.3.0'
+    implementation 'me.leolin:ShortcutBadger:1.1.22@aar'
+    implementation 'net.zetetic:android-database-sqlcipher:4.4.3@aar'
+    implementation 'de.hdodenhof:circleimageview:3.1.0'
+    implementation 'org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.5.20'
+    implementation 'org.greenrobot:eventbus:3.2.0'
+    implementation 'org.jetbrains.anko:anko:0.10.8'
+
+    implementation 'io.reactivex.rxjava2:rxjava:2.2.21'
+    implementation 'io.reactivex.rxjava2:rxandroid:2.1.1'
+
+    implementation 'javax.jmdns:jmdns:3.4.1'
+    compileOnly 'javax.annotation:jsr250-api:1.0'
+    kapt 'com.github.bumptech.glide:compiler:4.12.0'
+    annotationProcessor 'com.google.dagger:dagger-compiler:2.37'
+    compileOnly 'org.simple:androideventbus:1.0.5.1'
+
+    //   debugImplementation 'com.squareup.leakcanary:leakcanary-android:2.7'
+
+    testImplementation 'junit:junit:4.13.2'
+    implementation 'com.dylanc:viewbinding-ktx:1.0.0'
+}

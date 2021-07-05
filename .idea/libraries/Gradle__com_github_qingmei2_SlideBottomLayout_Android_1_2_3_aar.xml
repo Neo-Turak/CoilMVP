@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.qingmei2:SlideBottomLayout-Android:1.2.3@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/e7f5afb21c13bf10088db9c7e02c9165/transformed/jetified-SlideBottomLayout-Android-1.2.3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/e7f5afb21c13bf10088db9c7e02c9165/transformed/jetified-SlideBottomLayout-Android-1.2.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/e7f5afb21c13bf10088db9c7e02c9165/transformed/jetified-SlideBottomLayout-Android-1.2.3/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.qingmei2/SlideBottomLayout-Android/1.2.3/5492459cd9d1711e23432696cfd49f8ceed71e71/SlideBottomLayout-Android-1.2.3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.qingmei2/SlideBottomLayout-Android/1.2.3/dfce903c2c50bc92988c40edf2102c90cc926878/SlideBottomLayout-Android-1.2.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

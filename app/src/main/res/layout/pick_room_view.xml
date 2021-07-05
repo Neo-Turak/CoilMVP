@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_height="110dp"
+        android:background="@color/white"
+        android:layout_width="match_parent"
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto">
+    <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_marginTop="10dp"
+            android:id="@+id/_rl"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            android:layout_height="@dimen/dp_40">
+        <EditText
+                android:layout_width="40dp"
+                android:layout_height="wrap_content"
+                android:inputType="numberSigned"
+                android:maxLength="1"
+                android:selectAllOnFocus="true"
+                android:layout_marginLeft="40dp"
+                android:singleLine="true"
+                android:textSize="@dimen/sp_14"
+                android:textColor="#3D3D3D"
+                android:gravity="center"
+                android:hint="不限"
+                android:layout_toLeftOf="@id/_room"
+                android:id="@+id/room_et"
+                android:layout_marginStart="40dp"
+                android:layout_toStartOf="@id/_room" />
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="室"
+                android:layout_toLeftOf="@id/hall_et"
+                android:layout_toStartOf="@id/hall_et"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="30dp"
+                android:textSize="@dimen/sp_14"
+                android:textColor="#0185FF"
+                android:gravity="center"
+                android:id="@+id/_room"
+                />
+
+        <EditText
+                android:layout_width="40dp"
+                android:layout_height="wrap_content"
+                android:inputType="numberSigned"
+                android:maxLength="1"
+                android:singleLine="true"
+                android:textSize="@dimen/sp_14"
+                android:selectAllOnFocus="true"
+                android:textColor="#3D3D3D"
+                android:gravity="center"
+                android:hint="不限"
+                android:layout_centerHorizontal="true"
+                android:id="@+id/hall_et"
+                />
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="厅"
+                android:textSize="@dimen/sp_14"
+                android:textColor="#0185FF"
+                android:gravity="center"
+                android:layout_toRightOf="@id/hall_et"
+                android:id="@+id/_hall"
+                android:layout_centerVertical="true"
+                android:layout_toEndOf="@id/hall_et" />
+
+        <EditText
+                android:layout_width="40dp"
+                android:layout_height="wrap_content"
+                android:inputType="numberSigned"
+                android:maxLength="1"
+                android:singleLine="true"
+                android:gravity="center"
+                android:selectAllOnFocus="true"
+                android:textSize="@dimen/sp_14"
+                android:textColor="#3D3D3D"
+                android:layout_toRightOf="@id/_hall"
+                android:layout_marginLeft="30dp"
+                android:hint="不限"
+                android:id="@+id/toilet_et"
+                android:layout_toEndOf="@id/_hall"
+                android:layout_marginStart="30dp" />
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="卫"
+                android:textSize="@dimen/sp_14"
+                android:textColor="#0185FF"
+                android:gravity="center"
+            android:layout_toRightOf="@id/toilet_et"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="40dp"
+                android:layout_marginEnd="40dp"
+                android:layout_toEndOf="@id/toilet_et" />
+
+    </RelativeLayout>
+
+    <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/_rl"
+            android:layout_marginLeft="40dp"
+            android:layout_marginRight="40dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:weightSum="3"
+            app:layout_constraintBottom_toBottomOf="parent"
+            android:layout_marginStart="40dp">
+        <Button
+        android:layout_width="0dp"
+        android:layout_height="32dp"
+        android:layout_weight="1"
+        android:text="重置"
+                android:id="@+id/reset_btn"
+        android:layout_marginRight="20dp"
+        android:textColor="@color/color018"
+        android:background="@drawable/c0185ff_button_background_solid"
+        android:layout_marginEnd="20dp" />
+
+        <Button
+                android:layout_width="0dp"
+                android:layout_height="32dp"
+            android:background="@drawable/c0185ff_button_background"
+            android:layout_weight="2"
+                android:id="@+id/confirm_btn"
+                android:textColor="@color/white"
+                android:text="确认"
+            />
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
+
+
+

@@ -1,0 +1,576 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="FILE_MASK" value="*.xml" />
+  </component>
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="verbose" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b2bde09c-5e1b-4141-923e-e7d069cf210f" name="Default Changelist" comment="推荐绘制优化。" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[VirtualDevicePath@C:\Users\Mila\.android\avd\Pixel_3a_API_30_x86.avd]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/pdflab">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="juran_client" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="juran_client" type="f1a62948:ProjectNode" />
+                <item name="app" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="juran_client" type="f1a62948:ProjectNode" />
+                <item name="app" type="2d1252cf:ModuleNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="juran_client" type="f1a62948:ProjectNode" />
+                <item name="frame" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="juran_client" type="f1a62948:ProjectNode" />
+                <item name="frame" type="2d1252cf:ModuleNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="layoutResourceFile_vertical" />
+        <option value="resourceFile" />
+        <option value="Kotlin Data Class" />
+        <option value="layoutResourceFile" />
+        <option value="Kotlin Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GenerateSignedApkSettings">
+    <option name="KEY_STORE_PATH" value="C:\Users\Mila\Desktop\Juran.jks" />
+    <option name="KEY_ALIAS" value="juran.jks" />
+    <option name="BUILD_TARGET_KEY" value="apk" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="neo-turak &lt;nurahmattureke@gmail.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="develop" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1qRLq9QR3Y04Kl0KsFz4QaeBkU7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ApkExportedModule" value="juran_client.app" />
+    <property name="BundleExportedModule" value="juran_client.app" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="VirtualDevicePath@C:\Users\Mila\.android\avd\Pixel_3a_API_30_x86.avd" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2021-05-09T17:05:28.293863Z" />
+    <property name="ExportApk.ApkPath" value="C:\Users\Mila\StudioProjects\juran_client\app" />
+    <property name="ExportApk.BuildVariants" value="consumerRelease" />
+    <property name="ExportApk.SignV1" value="true" />
+    <property name="ExportApk.SignV2" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
+    <property name="android-custom-viewC:/Users/Mila/.gradle/caches/modules-2/files-2.1/com.flyco.tablayout/FlycoTabLayout_Lib/2.1.2/431eceecfe6b4044d8e075971d9f25018f12e876/FlycoTabLayout_Lib-2.1.2-sources.jar!/com/flyco/tablayout/CommonTabLayout.java_SELECTED" value="CommonTabLayout" />
+    <property name="android-custom-viewC:/Users/Mila/StudioProjects/juran_client/app/src/main/java/com/easyhome/jrconsumer/mvp/ui/widget/AmountView.java_SELECTED" value="AmountView" />
+    <property name="android-custom-viewC:/Users/Mila/StudioProjects/juran_client/app/src/main/java/com/easyhome/jrconsumer/mvp/ui/widget/HighLightTextView.java_SELECTED" value="HighLightTextView" />
+    <property name="android-custom-viewC:/Users/Mila/StudioProjects/juran_client/app/src/main/java/com/easyhome/jrconsumer/mvp/ui/widget/IMMListenerRelativeLayout.kt_SELECTED" value="IMMListenerRelativeLayout" />
+    <property name="android-custom-viewC:/Users/Mila/StudioProjects/juran_client/app/src/main/java/com/easyhome/jrconsumer/mvp/ui/widget/LikesView.kt_SELECTED" value="LikesView" />
+    <property name="android-custom-viewC:/Users/Mila/StudioProjects/juran_client/app/src/main/java/com/easyhome/jrconsumer/mvp/ui/widget/LineDashView.java_SELECTED" value="LineDashView" />
+    <property name="android-custom-viewC:/Users/Mila/StudioProjects/juran_client/app/src/main/java/com/easyhome/jrconsumer/mvp/ui/widget/LongListView.java_SELECTED" value="LongListView" />
+    <property name="android-custom-viewC:/Users/Mila/StudioProjects/juran_client/app/src/main/java/com/easyhome/jrconsumer/mvp/ui/widget/MsgEditText.java_SELECTED" value="MsgEditText" />
+    <property name="android-custom-viewC:/Users/Mila/StudioProjects/juran_client/app/src/main/java/com/easyhome/jrconsumer/mvp/ui/widget/MyDrawerLayout.java_SELECTED" value="MyDrawerLayout" />
+    <property name="android-custom-viewC:/Users/Mila/StudioProjects/juran_client/app/src/main/java/com/easyhome/jrconsumer/mvp/ui/widget/PasswordView.kt_SELECTED" value="PasswordView" />
+    <property name="android-custom-viewC:/Users/Mila/StudioProjects/juran_client/app/src/main/java/com/easyhome/jrconsumer/mvp/ui/widget/ProgressWheel.java_SELECTED" value="ProgressWheel" />
+    <property name="android-custom-viewC:/Users/Mila/StudioProjects/juran_client/app/src/main/java/com/easyhome/jrconsumer/mvp/ui/widget/QGridView.java_SELECTED" value="QGridView" />
+    <property name="android-custom-viewC:/Users/Mila/StudioProjects/juran_client/app/src/main/java/com/easyhome/jrconsumer/mvp/ui/widget/RedTipTextView.java_SELECTED" value="RedTipTextView" />
+    <property name="android-custom-viewC:/Users/Mila/StudioProjects/juran_client/app/src/main/java/com/easyhome/jrconsumer/mvp/ui/widget/ScrollListenerHorizontalScrollView.java_SELECTED" value="ScrollListenerHorizontalScrollView" />
+    <property name="android-custom-viewC:/Users/Mila/StudioProjects/juran_client/app/src/main/java/com/easyhome/jrconsumer/mvp/ui/widget/SwitchButton.java_SELECTED" value="SwitchButton" />
+    <property name="android-custom-viewC:/Users/Mila/StudioProjects/juran_client/app/src/main/java/com/easyhome/jrconsumer/mvp/ui/widget/TagsLayout.java_SELECTED" value="TagsLayout" />
+    <property name="android-custom-viewC:/Users/Mila/StudioProjects/juran_client/app/src/main/java/com/easyhome/jrconsumer/mvp/ui/widget/X5WebView.kt_SELECTED" value="X5WebView" />
+    <property name="android-custom-viewC:/Users/Mila/StudioProjects/juran_client/app/src/main/java/com/easyhome/jrconsumer/mvp/ui/widget/ZoomImageView.java_SELECTED" value="ZoomImageView" />
+    <property name="android-custom-viewC:/Users/Mila/StudioProjects/juran_client/app/src/main/java/com/easyhome/jrconsumer/mvp/ui/widget/addressselector/AddressSelector.java_SELECTED" value="AddressSelector" />
+    <property name="android-custom-viewC:/Users/Mila/StudioProjects/juran_client/app/src/main/java/com/easyhome/jrconsumer/util/pdflib/ReaderView.java_SELECTED" value="ReaderView" />
+    <property name="android-custom-viewC:/Users/Mila/StudioProjects/juran_client/app/src/main/kotlin/com/easyhome/jrconsumer/mvp/ui/widget/CustomView.kt_SELECTED" value="CustomView" />
+    <property name="android-custom-viewC:/Users/Mila/StudioProjects/juran_client/app/src/main/kotlin/com/easyhome/jrconsumer/mvp/ui/widget/PasswordView.kt_SELECTED" value="PasswordView" />
+    <property name="android-custom-viewC:/Users/Mila/StudioProjects/juran_client/app/src/main/kotlin/com/easyhome/jrconsumer/mvp/ui/widget/waveView/Solid.kt_SELECTED" value="Solid" />
+    <property name="android-custom-viewC:/Users/Mila/StudioProjects/juran_client/app/src/main/kotlin/com/easyhome/jrconsumer/mvp/ui/widget/waveView/WaveView.kt_SELECTED" value="WaveView" />
+    <property name="android-custom-viewC:/Users/Mila/StudioProjects/juran_client/mupdf-lib/src/main/java/com/artifex/mupdf/viewer/ReaderView.java_SELECTED" value="ReaderView" />
+    <property name="android-custom-viewC:/Users/Mila/StudioProjects/juran_client/pdflab/src/main/java/cn/nurasoft/pdflab/ReaderView.java_SELECTED" value="ReaderView" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/src/main/kotlin/com/easyhome/jrconsumer/app/dao" />
+    <property name="multi-representation-previewC:/Users/Mila/.gradle/caches/modules-2/files-2.1/com.flyco.tablayout/FlycoTabLayout_Lib/2.1.2/431eceecfe6b4044d8e075971d9f25018f12e876/FlycoTabLayout_Lib-2.1.2-sources.jar!/com/flyco/tablayout/CommonTabLayout.java_selected" value="Custom views" />
+    <property name="multi-representation-previewC:/Users/Mila/StudioProjects/juran_client/app/src/main/java/com/easyhome/jrconsumer/util/pdflib/ReaderView.java_selected" value="Custom views" />
+    <property name="multi-representation-previewC:/Users/Mila/StudioProjects/juran_client/mupdf-lib/src/main/java/com/artifex/mupdf/viewer/ReaderView.java_selected" value="Custom views" />
+    <property name="multi-representation-previewC:/Users/Mila/StudioProjects/juran_client/pdflab/src/main/java/cn/nurasoft/pdflab/ReaderView.java_selected" value="Custom views" />
+    <property name="project.structure.last.edited" value="Dependencies" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="PsdUISettings">
+    <option name="MODULE_TAB" value="Properties" />
+    <option name="LAST_EDITED_SIGNING_CONFIG" value="debug" />
+    <option name="LAST_EDITED_BUILD_TYPE" value="release" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
+      <recent name="com.easyhome.jrconsumer.mvp.ui.adapter" />
+      <recent name="com.easyhome.jrconsumer.mvp.model.javabean" />
+      <recent name="com.easyhome.jrconsumer.mvp.ui.fragment" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Mila\StudioProjects\juran_client\app\src\main\kotlin\com\easyhome\jrconsumer\app\dao" />
+      <recent name="C:\Users\Mila\StudioProjects\juran_client\app\src\main\java\com\easyhome\jrconsumer\app\bean" />
+      <recent name="C:\Users\Mila\StudioProjects\juran_client\app\src\main\java\com\easyhome\jrconsumer\api\service" />
+      <recent name="C:\Users\Mila\StudioProjects\juran_client\app\src\main\java\com\easyhome\jrconsumer\mvp\extension" />
+      <recent name="C:\Users\Mila\StudioProjects\juran_client\app\src\main\res\layout" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="cn.nurasoft.pdflab" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Mila\StudioProjects\juran_client\app\src\main\res\drawable-hdpi" />
+      <recent name="C:\Users\Mila\StudioProjects\juran_client\pdflab\src\main\java\cn\nurasoft\pdflab" />
+      <recent name="C:\Users\Mila\StudioProjects\juran_client\pdflab\src\main\res\drawable" />
+      <recent name="C:\Users\Mila\StudioProjects\juran_client\pdflab\src\main\res\layout" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Android App.app">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="juran_client.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="juran_client:pdflab [assemble]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/pdflab" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="assemble" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.juran_client:pdflab [assemble]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b2bde09c-5e1b-4141-923e-e7d069cf210f" name="Default Changelist" comment="" />
+      <created>1617037643585</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617037643585</updated>
+    </task>
+    <task id="LOCAL-00001" summary="gradle版本的升级。">
+      <created>1617642421569</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1617642421569</updated>
+    </task>
+    <task id="LOCAL-00002" summary="研究主页布局。">
+      <created>1617814787294</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1617814787294</updated>
+    </task>
+    <task id="LOCAL-00003" summary="解决了滑动冲突的问题。">
+      <created>1617890411097</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1617890411097</updated>
+    </task>
+    <task id="LOCAL-00004" summary="第三期UI 进度。88%">
+      <created>1618159155585</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1618159155585</updated>
+    </task>
+    <task id="LOCAL-00005" summary="第三期UI 进度。100%">
+      <created>1618330362241</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1618330362241</updated>
+    </task>
+    <task id="LOCAL-00006" summary="第三期UI 进度。100%">
+      <created>1618330371787</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1618330371787</updated>
+    </task>
+    <task id="LOCAL-00007" summary="有些优化。">
+      <created>1618488471734</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1618488471734</updated>
+    </task>
+    <task id="LOCAL-00008" summary="我的项目，时间格式的调整。">
+      <created>1619015953457</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1619015953457</updated>
+    </task>
+    <task id="LOCAL-00009" summary="登陆页">
+      <created>1619277482028</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1619277482028</updated>
+    </task>
+    <task id="LOCAL-00010" summary="登陆页0.1">
+      <created>1619282336623</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1619282336623</updated>
+    </task>
+    <task id="LOCAL-00011" summary="登陆页0.2">
+      <created>1619448788358</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1619448788359</updated>
+    </task>
+    <task id="LOCAL-00012" summary="修复合同加载中退出，依然会加载的bug。">
+      <created>1620146281708</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1620146281708</updated>
+    </task>
+    <task id="LOCAL-00013" summary="GPU过渡绘制优化。">
+      <created>1620192543531</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1620192543532</updated>
+    </task>
+    <task id="LOCAL-00014" summary="绘制优化。">
+      <created>1620216652182</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1620216652182</updated>
+    </task>
+    <task id="LOCAL-00015" summary="绘制优化。">
+      <created>1620217565615</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1620217565615</updated>
+    </task>
+    <task id="LOCAL-00016" summary="推荐绘制优化。">
+      <created>1620582074674</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1620582074674</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/mupdf-lib" />
+    </ignored-roots>
+    <MESSAGE value="gradle版本的升级。" />
+    <MESSAGE value="研究主页布局。" />
+    <MESSAGE value="解决了滑动冲突的问题。" />
+    <MESSAGE value="第三期UI 进度。88%" />
+    <MESSAGE value="第三期UI 进度。100%" />
+    <MESSAGE value="有些优化。" />
+    <MESSAGE value="我的项目，时间格式的调整。" />
+    <MESSAGE value="登陆页" />
+    <MESSAGE value="登陆页0.1" />
+    <MESSAGE value="登陆页0.2" />
+    <MESSAGE value="修复合同加载中退出，依然会加载的bug。" />
+    <MESSAGE value="GPU过渡绘制优化。" />
+    <MESSAGE value="绘制优化。" />
+    <MESSAGE value="推荐绘制优化。" />
+    <option name="LAST_COMMIT_MESSAGE" value="推荐绘制优化。" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-13" y="283" width="916" height="551" key="#PSD" timestamp="1624459849523">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-13" y="283" width="916" height="551" key="#PSD/0.0.1920.1040@0.0.1920.1040" timestamp="1624459849523" />
+    <state x="552" y="161" key="#Plugins" timestamp="1624545650596">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="161" key="#Plugins/0.0.1920.1040@0.0.1920.1040" timestamp="1624545650596" />
+    <state x="235" y="140" width="688" height="568" key="#com.intellij.ide.util.MemberChooser" timestamp="1624457515484">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="235" y="140" width="688" height="568" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1624457515484" />
+    <state x="768" y="262" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1620238955148">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="768" y="262" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1620238955148" />
+    <state x="760" y="436" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1618747948606">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="760" y="436" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1618747948606" />
+    <state x="644" y="391" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1618747952199">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="644" y="391" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1920.1040@0.0.1920.1040" timestamp="1618747952199" />
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1625068218516">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1625068218516" />
+    <state x="92" y="92" width="1736" height="856" key="AVDManager" timestamp="1618055055433">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="AVDManager/0.0.1920.1040@0.0.1920.1040" timestamp="1618055055433" />
+    <state x="120" y="280" key="AndroidCreateResourceFileDialog" timestamp="1625067142651">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="120" y="280" key="AndroidCreateResourceFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1625067142651" />
+    <state x="739" y="294" key="AndroidCreateXmlResourceDialog" timestamp="1620580695755">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="739" y="294" key="AndroidCreateXmlResourceDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1620580695755" />
+    <state x="531" y="283" key="FileChooserDialogImpl" timestamp="1625066478842">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="531" y="283" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1625066478842" />
+    <state x="765" y="437" key="Github.CreateGistDialog" timestamp="1619967176899">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="437" key="Github.CreateGistDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1619967176899" />
+    <state width="1877" height="305" key="GridCell.Tab.0.bottom" timestamp="1625068179562">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="305" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1625068179562" />
+    <state width="1877" height="305" key="GridCell.Tab.0.center" timestamp="1625068179562">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="305" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1625068179562" />
+    <state width="1877" height="305" key="GridCell.Tab.0.left" timestamp="1625068179561">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="305" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1625068179561" />
+    <state width="1877" height="305" key="GridCell.Tab.0.right" timestamp="1625068179562">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="305" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1625068179562" />
+    <state x="689" y="138" key="RollbackChangesDialog" timestamp="1620488223671">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="689" y="138" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1620488223671" />
+    <state x="231" y="329" key="SettingsEditor" timestamp="1624973147483">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="231" y="329" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1624973147483" />
+    <state x="552" y="249" key="Vcs.Push.Dialog.v2" timestamp="1619015979683">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="249" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1619015979683" />
+    <state x="759" y="297" key="chooseDestDirectoryDialog" timestamp="1618327833823">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="759" y="297" key="chooseDestDirectoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1618327833823" />
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1625068454181">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1625068454181" />
+    <state x="752" y="430" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1619967698300">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="752" y="430" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1619967698300" />
+    <state x="653" y="178" width="913" height="568" key="find.popup" timestamp="1620543130502">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="653" y="178" width="913" height="568" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1620543130502" />
+    <state x="710" y="150" key="git4idea.branch.GitSmartOperationDialog" timestamp="1617109416101">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="710" y="150" key="git4idea.branch.GitSmartOperationDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1617109416101" />
+    <state x="663" y="293" key="git4idea.merge.GitPullDialog" timestamp="1618415314806">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="663" y="293" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1618415314806" />
+    <state x="745" y="414" key="git4idea.ui.GitStashDialog" timestamp="1620301639516">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="745" y="414" key="git4idea.ui.GitStashDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1620301639516" />
+    <state x="717" y="305" key="git4idea.ui.GitUnstashDialog" timestamp="1619966968946">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="717" y="305" key="git4idea.ui.GitUnstashDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1619966968946" />
+    <state x="792" y="236" width="672" height="677" key="run.anything.popup" timestamp="1620240179393">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="792" y="236" width="672" height="677" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1620240179393" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1620563525908">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1620563525908" />
+  </component>
+</project>

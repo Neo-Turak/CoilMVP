@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/juran_client.iml" filepath="$PROJECT_DIR$/.idea/modules/juran_client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/juran_client.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/juran_client.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/frame/juran_client.frame.iml" filepath="$PROJECT_DIR$/.idea/modules/frame/juran_client.frame.iml" />
+    </modules>
+  </component>
+</project>

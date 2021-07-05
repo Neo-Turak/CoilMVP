@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.donkingliang:LabelsView:1.6.3@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/e3b8a2392bf6c73080f1afa4cc2ec981/transformed/jetified-LabelsView-1.6.3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/e3b8a2392bf6c73080f1afa4cc2ec981/transformed/jetified-LabelsView-1.6.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/e3b8a2392bf6c73080f1afa4cc2ec981/transformed/jetified-LabelsView-1.6.3/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.donkingliang/LabelsView/1.6.3/7b1b7e107a824bc2b4d7c790e8d3b4eb5bd250b0/LabelsView-1.6.3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.donkingliang/LabelsView/1.6.3/a618ea327e4d3697c97fd708e29a13ba49b33c21/LabelsView-1.6.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
